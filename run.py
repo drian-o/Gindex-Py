@@ -96,7 +96,7 @@ def get_user_input():
           `._                 _.'
              `._           _.'
                 `._     _.'
-                   `._.''''
+                   `._.'''
     print(banner)
     print("Github: Drian-o")
     print("=== Menu Alat ===")
