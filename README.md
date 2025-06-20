@@ -23,12 +23,20 @@
 # Gindex
 Google Indexing Using Indexing Api Python 
 Submit URLs in bulk to Google Indexing, fetching automatic urls from Sitemap.xml
+
+```
+install packages on server 
+sudo apt-get install python3-oauth2client
+sudo apt-get install python3-googleapi
+```
+
 ```
 git clone https://github.com/drian-o/Gindex-Py.git
 cd Gindex
 pip install -r requirements.txt
 python run.py
 ```
+
 # credentials.json
 This is Example
 ```
