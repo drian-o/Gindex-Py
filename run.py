@@ -76,7 +76,7 @@ def get_urls_from_sitemap(sitemap_url):
         return []
 
 def get_user_input():
-    banner = '
+    banner = '''
         .-""""""""-.
        .'          '.
       /   🚀  ✨   \
@@ -96,7 +96,7 @@ def get_user_input():
           `._                 _.'
              `._           _.'
                 `._     _.'
-                   `._.''
+                   `._.''''
     print(banner)
     print("Github: Drian-o")
     print("=== Menu Alat ===")
