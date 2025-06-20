@@ -24,7 +24,7 @@
 Google Indexing Using Indexing Api Python 
 Submit URLs in bulk to Google Indexing, fetching automatic urls from Sitemap.xml
 ```
-git clone https://github.com/DomathID/Gindex
+git clone https://github.com/drian-o/Gindex-Py.git
 cd Gindex
 pip install -r requirements.txt
 python run.py
@@ -46,8 +46,8 @@ This is Example
   "universe_domain": "googleapis.com"
 }
 ```
-# Support Me
-<a href="https://trakteer.id/bang-domath" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
+
 # How To Use 
 
 https://www.yukinoshita.web.id/2023/10/cara-index-website-dengan-indexing-api.html
