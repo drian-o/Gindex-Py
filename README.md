@@ -58,4 +58,4 @@ This is Example
 
 # How To Use 
 
-https://www.yukinoshita.web.id/2023/10/cara-index-website-dengan-indexing-api.html
+[https://www.yukinoshita.web.id/2023/10/cara-index-website-dengan-indexing-api.html](https://adastra.solutions/google-index-menggunakan-api-python3/)
